@@ -6,6 +6,8 @@ Godot / GDScript · Steamworks · P2P Networking · Workshop UGC · Windows
 
 CardCraft Engineering is a Godot-based digital card game using Steam services for friend lobbies and matchmaking. This repository documents its networking, content management, persistence, localization, and release engineering through architecture notes, case studies, and standalone examples.
 
+**试玩 / Play:** [Steam 商店与 Demo / Steam Store & Demo](https://store.steampowered.com/app/4338300/)
+
 ## 工程职责 / Engineering Work
 
 | 领域 / Area | 实现与关注点 / Implementation |
